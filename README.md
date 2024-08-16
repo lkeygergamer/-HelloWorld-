@@ -3,7 +3,6 @@ Há ainda muito a ser feito; o que vemos agora é apenas uma estrutura básica d
 
 A chave para o futuro reside na interseção da curiosidade e da inovação, onde a imaginação transforma sonhos em realidade.
 
-[ADILSON.pdf](https://github.com/user-attachments/files/16639707/ADILSON.pdf)
 
 
 Criptografia Simétrica (CBC): Este é um método robusto para proteger dados em trânsito ou em repouso, utilizado amplamente em protocolos de segurança como SSL/TLS, que são fundamentais para a segurança na internet.
@@ -13,3 +12,11 @@ Esteganografia: A capacidade de esconder informações em imagens, sons, ou outr
 Aprendizado de Máquina (Gradient Descent): A aplicação de aprendizado de máquina em segurança cibernética é vastamente explorada, como na detecção de intrusões, prevenção de fraudes, e em sistemas de reconhecimento de padrões em grandes volumes de dados.
 
 Análise Forense: O uso de hash SHA-256 é fundamental na verificação da integridade de dados e na análise forense, onde a autenticidade de um arquivo pode ser crucial em investigações legais.
+
+[ADILSON.pdf](https://github.com/user-attachments/files/16639707/ADILSON.pdf)
+
+![ADILSON pdf_Page_0](https://github.com/user-attachments/assets/53f753b6-e513-436e-98c3-5f5441b09568)
+
+![ADILSON pdf_Page_1](https://github.com/user-attachments/assets/e95249e8-4d62-4ba0-a429-b78fadc74c81)
+
+![ADILSON pdf_Page_2](https://github.com/user-attachments/assets/92f82f85-7545-47f4-920c-18b20b534041)
