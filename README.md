@@ -32,3 +32,17 @@ enigma:
 ![ADILSON pdf_Page_1](https://github.com/user-attachments/assets/e95249e8-4d62-4ba0-a429-b78fadc74c81)
 
 ![ADILSON pdf_Page_2](https://github.com/user-attachments/assets/92f82f85-7545-47f4-920c-18b20b534041)
+
+
+
+uma ideia ? 
+
+![calculoadilsonoliveira pdf_Page_0](https://github.com/user-attachments/assets/2e3b0c3e-4d1e-4901-931e-88da3bc07e97)
+
+![calculoadilsonoliveira pdf_Page_1](https://github.com/user-attachments/assets/a209c937-13b8-4373-8d2a-c4e513a031dd)
+
+
+![calculoadilsonoliveira pdf_Page_2](https://github.com/user-attachments/assets/768293e4-0e72-4a4c-975f-b7ccf6f37c93)
+
+
+![calculoadilsonoliveira pdf_Page_3](https://github.com/user-attachments/assets/0cf70845-c03f-465f-ae23-95341eb955ee)
