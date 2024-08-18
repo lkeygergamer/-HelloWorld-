@@ -17,8 +17,15 @@ Análise Forense: O uso de hash SHA-256 é fundamental na verificação da integ
 
 PDF: FASE
 [Utilizando a hash real fornecida para a função SHA.pdf](https://github.com/user-attachments/files/16650579/Utilizando.a.hash.real.fornecida.para.a.funcao.SHA.pdf)
+
+
 Pensamento:
 [Proof of Hybrid Consensus.pdf](https://github.com/user-attachments/files/16650821/Proof.of.Hybrid.Consensus.pdf)
+
+
+enigma:
+[Para criar uma mensagem codificada..pdf](https://github.com/user-attachments/files/16650968/Para.criar.uma.mensagem.codificada.pdf)
+
 
 ![ADILSON pdf_Page_0](https://github.com/user-attachments/assets/53f753b6-e513-436e-98c3-5f5441b09568)
 
