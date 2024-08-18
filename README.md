@@ -15,6 +15,9 @@ Análise Forense: O uso de hash SHA-256 é fundamental na verificação da integ
 
 [ADILSON.pdf](https://github.com/user-attachments/files/16639707/ADILSON.pdf)
 
+PDF: FASE
+[Utilizando a hash real fornecida para a função SHA.pdf](https://github.com/user-attachments/files/16650579/Utilizando.a.hash.real.fornecida.para.a.funcao.SHA.pdf)
+
 ![ADILSON pdf_Page_0](https://github.com/user-attachments/assets/53f753b6-e513-436e-98c3-5f5441b09568)
 
 ![ADILSON pdf_Page_1](https://github.com/user-attachments/assets/e95249e8-4d62-4ba0-a429-b78fadc74c81)
