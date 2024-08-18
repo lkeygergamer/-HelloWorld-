@@ -48,7 +48,7 @@ uma ideia ?
 ![calculoadilsonoliveira pdf_Page_3](https://github.com/user-attachments/assets/0cf70845-c03f-465f-ae23-95341eb955ee)
 
 
-Para criar uma chave privada e, em seguida, utilizá-la na aplicação de funções como SHA-256 ou para assinaturas digitais, seguimos os seguintes passos:
+Para criar uma chave privada e, em seguida, utilizá-la na aplicação de funções como SHA-256 ou para assinaturas digitais:
 
 ### 1. Gerar uma Chave Privada
 Uma chave privada pode ser gerada usando algoritmos criptográficos, como o RSA ou ECC. Aqui vamos exemplificar como gerar uma chave privada usando Python e a biblioteca `cryptography`.
