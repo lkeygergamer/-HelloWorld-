@@ -46,3 +46,62 @@ uma ideia ?
 
 
 ![calculoadilsonoliveira pdf_Page_3](https://github.com/user-attachments/assets/0cf70845-c03f-465f-ae23-95341eb955ee)
+
+
+Para criar uma chave privada e, em seguida, utilizá-la na aplicação de funções como SHA-256 ou para assinaturas digitais, seguimos os seguintes passos:
+
+### 1. Gerar uma Chave Privada
+Uma chave privada pode ser gerada usando algoritmos criptográficos, como o RSA ou ECC. Aqui vamos exemplificar como gerar uma chave privada usando Python e a biblioteca `cryptography`.
+
+```python
+from cryptography.hazmat.primitives.asymmetric import rsa
+from cryptography.hazmat.primitives import serialization
+
+# Gerar uma chave privada RSA
+private_key = rsa.generate_private_key(
+    public_exponent=65537,
+    key_size=2048,
+)
+
+# Converter a chave privada para o formato PEM (base64) para armazenar ou compartilhar
+pem = private_key.private_bytes(
+   encoding=serialization.Encoding.PEM,
+   format=serialization.PrivateFormat.TraditionalOpenSSL,
+   encryption_algorithm=serialization.NoEncryption()
+)
+
+# Mostrar a chave privada
+print(pem.decode('utf-8'))
+```
+
+### 2. Assinatura Digital usando SHA-256
+Depois de gerar a chave privada, você pode usá-la para assinar a mensagem "Hello World" com SHA-256. Aqui está um exemplo de como você faria isso:
+
+```python
+from cryptography.hazmat.primitives import hashes
+from cryptography.hazmat.primitives.asymmetric import padding
+
+# Mensagem a ser assinada
+message = b"Hello World"
+
+# Assinar a mensagem com a chave privada
+signature = private_key.sign(
+    message,
+    padding.PSS(
+        mgf=padding.MGF1(hashes.SHA256()),
+        salt_length=padding.PSS.MAX_LENGTH
+    ),
+    hashes.SHA256()
+)
+
+# Exibir a assinatura
+print(signature.hex())
+```
+
+### 3. Resultado
+A **chave privada** é um número secreto que só você conhece, enquanto a **assinatura digital** gerada pelo código acima é uma "prova" de que você conhece essa chave privada.
+
+- **Chave privada (em PEM):** Este valor será uma string em formato PEM (um formato base64) que só você deve conhecer.
+- **Assinatura digital:** Este valor hexadecimal é único para a combinação da sua chave privada e da mensagem "Hello World".
+
+
